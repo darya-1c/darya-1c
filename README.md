@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **darya-1c/darya-1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
